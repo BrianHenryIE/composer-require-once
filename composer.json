@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "BrianHenryIE\\ComposerRequireOnce\\": "src"
+    }
+  },
+  "require": {
+    "composer/composer": "*",
+    "nikic/php-parser": "*"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "*",
+    "phpunit/phpunit": "*"
+  }
+}
